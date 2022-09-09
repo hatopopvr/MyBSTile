@@ -11,8 +11,7 @@ The [Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/M
  
 ![Input Form](images/images_002.jpg)
  
-2. Press the `Ru
-ntime` tab, then Press the `Run All` button to get the results.
+2. Press the `Runtime` tab, then Press the `Run All` or `Restart and Run All` button to get the results.
 
 ![Input Form](images/images_003.jpg)
 
