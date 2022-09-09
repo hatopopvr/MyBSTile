@@ -18,8 +18,8 @@ ScoreSaberのプレイ履歴データのタイル表示を行う[Google Colab No
 ![Input Form](images/images_004.jpg)
 
 ## データ元
-- Score Data form ScoreSaber Public API - [doc](https://docs.scoresaber.com/)  
-- Cover Image form - https://cdn.scoresaber.com/covers/{hash}.png  
+- Scoreデータ元 - ScoreSaber Public API - [doc](https://docs.scoresaber.com/)  
+- Cover画像元 - https://cdn.scoresaber.com/covers/{hash}.png  
 
 ## 作者
 - hatopop ([@hatopop_vr](https://twitter.com/hatopop_vr))
