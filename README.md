@@ -10,6 +10,8 @@ The [Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/M
 2. When the notebook opens, enter the ScoreSaber PlayerID below.  
 　Select `top` or `recent` as the content to be retrieved.
  
+![Input Form](images/images_002.jpg)
+ 
 3. Press the `Runtime` tab, then Press the `Run All` button to get the results.
 
 ## Data
