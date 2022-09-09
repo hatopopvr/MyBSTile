@@ -1,8 +1,7 @@
 # MyBSTile
 Displays ScoreSaber data in a tiled format
 
-![Tile](images/image_001.jpg)
-
+![Tile](images/images_001.jpg)
 
 ## how to use
 
