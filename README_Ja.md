@@ -5,6 +5,10 @@
 
 ![Tile](images/images_001.jpg)
 
+## データ元
+- Scoreデータ元 - ScoreSaber Public API - [doc](https://docs.scoresaber.com/)  
+- Cover画像元 - https://cdn.scoresaber.com/covers/{hash}.png  
+
 ## 使い方
 
 1. [notebook](https://colab.research.google.com/github/hatopopvr/MyBSTile/blob/main/MyBSTile_En.ipynb) を開き、以下の情報を入力します。
@@ -16,10 +20,6 @@
 2. `ランタイム`タブを選択し、 `すべてのセルを実行`か `再起動してすべてのセルを実行` を選択し、実行すると結果が得られます。
 
 ![Input Form](images/images_004.jpg)
-
-## データ元
-- Scoreデータ元 - ScoreSaber Public API - [doc](https://docs.scoresaber.com/)  
-- Cover画像元 - https://cdn.scoresaber.com/covers/{hash}.png  
 
 ## 作者
 - hatopop ([@hatopop_vr](https://twitter.com/hatopop_vr))
