@@ -5,14 +5,12 @@ The [Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/M
 
 ## how to use
 
-1. Press the `Open in Colab` button to open this [notebook](https://github.com/hatopopvr/MyBSTile/blob/main/MyBSTile_En.ipynb) with Google Colab.
-
-2. When the notebook opens, enter the ScoreSaber PlayerID below.  
+1. When the [notebook](https://colab.research.google.com/github/hatopopvr/MyBSTile/blob/main/MyBSTile_En.ipynb)  opens, enter the ScoreSaber PlayerID(`player_id`) below.  
 　Select `top` or `recent` as the content to be retrieved.
  
 ![Input Form](images/images_002.jpg)
  
-3. Press the `Runtime` tab, then Press the `Run All` button to get the results.
+2. Press the `Runtime` tab, then Press the `Run All` button to get the results.
 
 ![Input Form](images/images_003.jpg)
 
