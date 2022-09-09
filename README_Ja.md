@@ -1,13 +1,14 @@
 # MyBSTile
-The [Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/MyBSTile/blob/main/MyBSTile_En.ipynb) displays ScoreSaber player's history data in a tiled format.
+ScoreSaberのプレイ履歴データのタイル表示を行う[Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/MyBSTile/blob/main/MyBSTile_En.ipynb) です。
+MyBeatSaberAnalyticsに実装した機能の抜粋であり、データ取得量を減らしたライト版です。
 
 ![Tile](images/images_001.jpg)
 
-## how to use
+## 使い方
 
-1. When the [notebook](https://colab.research.google.com/github/hatopopvr/MyBSTile/blob/main/MyBSTile_En.ipynb)  opens, input information below.
- - `player_id` : enter the ScoreSaber PlayerID 
- - `view_score_type` : Select `top` or `recent` as the content to be retrieved. 
+1. [notebook](https://colab.research.google.com/github/hatopopvr/MyBSTile/blob/main/MyBSTile_En.ipynb) を開き、以下の情報を入力します。
+ - `player_id` : ScoreSaberのPlayerIDを入力してください。 
+ - `view_score_type` : 取得する内容を`top` か`recent`か選択してください。 
  
 ![Input Form](images/images_002.jpg)
  
@@ -15,31 +16,9 @@ The [Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/M
 
 ![Input Form](images/images_003.jpg)
 
-## Data
+## データ元
 - Score Data form ScoreSaber Public API - [doc](https://docs.scoresaber.com/)  
 - Cover Image form - https://cdn.scoresaber.com/covers/{hash}.png  
 
-## Author
-- hatopop ([@hatopop_vr](https://twitter.com/hatopop_vr))# MyBSTile
-The [Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/MyBSTile/blob/main/MyBSTile_En.ipynb) displays ScoreSaber player's history data in a tiled format.
-
-![Tile](images/images_001.jpg)
-
-## how to use
-
-1. When the [notebook](https://colab.research.google.com/github/hatopopvr/MyBSTile/blob/main/MyBSTile_En.ipynb)  opens, input information below.
- - `player_id` : enter the ScoreSaber PlayerID 
- - `view_score_type` : Select `top` or `recent` as the content to be retrieved. 
- 
-![Input Form](images/images_002.jpg)
- 
-2. Press the `Runtime` tab, then Press the `Run All` or `Restart and Run All` button to get the results.
-
-![Input Form](images/images_003.jpg)
-
-## Data
-- Score Data form ScoreSaber Public API - [doc](https://docs.scoresaber.com/)  
-- Cover Image form - https://cdn.scoresaber.com/covers/{hash}.png  
-
-## Author
+## 作者
 - hatopop ([@hatopop_vr](https://twitter.com/hatopop_vr))
