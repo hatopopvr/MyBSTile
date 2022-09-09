@@ -15,7 +15,7 @@ MyBeatSaberAnalyticsに実装した機能の抜粋であり、データ取得量
  
 2. `ランタイム`タブを選択し、 `すべてのセルを実行`か `再起動してすべてのセルを実行` を選択し、実行すると結果が得られます。
 
-![Input Form](images/images_003.jpg)
+![Input Form](images/images_004.jpg)
 
 ## データ元
 - Score Data form ScoreSaber Public API - [doc](https://docs.scoresaber.com/)  
