@@ -14,6 +14,8 @@ The [Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/M
  
 3. Press the `Runtime` tab, then Press the `Run All` button to get the results.
 
+![Input Form](images/images_003.jpg)
+
 ## Data
 - Score Data form ScoreSaber Public API - [doc](https://docs.scoresaber.com/)  
 - Cover Image form - https://cdn.scoresaber.com/covers/{hash}.png  
