@@ -16,7 +16,8 @@ The [Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/M
  
 ![Input Form](images/images_002.jpg)
  
-2. Press the `Runtime` tab, then Press the `Run All` or `Restart and Run All` button to get the results.
+2. Press the `Runtime` tab, then Press the `Run All` or `Restart and Run All` button to get the results.  
+  (Please run it despite the warning.)
 
 ![Input Form](images/images_003.jpg)
 
