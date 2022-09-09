@@ -1,6 +1,7 @@
 # MyBSTile
-ScoreSaberのプレイ履歴データのタイル表示を行う[Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/MyBSTile/blob/main/MyBSTile_En.ipynb) です。
-MyBeatSaberAnalyticsに実装した機能の抜粋であり、データ取得量を減らしたライト版です。
+ScoreSaberのプレイ履歴データのタイル表示を行う[Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/MyBSTile/blob/main/MyBSTile_En.ipynb) です。  
+MyBeatSaberAnalyticsに実装した機能の抜粋であり、データ取得量を減らしたライト版です。   
+データは何も保存しないですが、手軽に結果を確認するには便利です。
 
 ![Tile](images/images_001.jpg)
 
@@ -12,7 +13,7 @@ MyBeatSaberAnalyticsに実装した機能の抜粋であり、データ取得量
  
 ![Input Form](images/images_002.jpg)
  
-2. Press the `Runtime` tab, then Press the `Run All` or `Restart and Run All` button to get the results.
+2. `ランタイム`タブを選択し、 `すべてのセルを実行`か `再起動してすべてのセルを実行` を選択し、実行すると結果が得られます。
 
 ![Input Form](images/images_003.jpg)
 
