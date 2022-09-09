@@ -13,7 +13,6 @@ Displays ScoreSaber data in a tiled format
  
 3. Press the `Runtime` tab, then Press the `Run All` button to get the results.
 
-## MyBSTile_En
 ## Data
 - Score Data form ScoreSaber Public API - [doc](https://docs.scoresaber.com/)  
 - Cover Image form - https://cdn.scoresaber.com/covers/{hash}.png  
