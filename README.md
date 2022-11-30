@@ -3,7 +3,7 @@ The [Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/M
 
 - [MyBSTile_Lite](https://colab.research.google.com/github/hatopopvr/MyBSTile/blob/main/MyBSTile_En.ipynb): Recommended version. Lightweight as only the minimum data is retrieved. No authentication required.
 
-- [MyBSTile_Pro](https://colab.research.google.com/github/hatopopvr/MyBSTile/blob/main/MyBSTile_En.ipynb): Google authentication is required as it uses Google drive. UnRanked accuracy & Keyword filters are available.
+- [MyBSTile_Pro](https://colab.research.google.com/github/hatopopvr/MyBSTile/blob/main/MyBSTilePro_En.ipynb): Google authentication is required as it uses Google drive. UnRanked accuracy & Keyword filters are available.
 
 ![Tile](images/images_001.jpg)
 
