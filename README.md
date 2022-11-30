@@ -1,8 +1,10 @@
 # MyBSTile
 The [Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/MyBSTile/blob/main/MyBSTile_En.ipynb) to displays BeatSaber's play history in a tiled format.
 
-![Tile](images/images_001.jpg)
+[MyBSTile_Lite](https://colab.research.google.com/github/hatopopvr/MyBSTile/blob/main/MyBSTile_En.ipynb): Easy to use.
+[MyBSTile_Pro](https://colab.research.google.com/github/hatopopvr/MyBSTile/blob/main/MyBSTile_En.ipynb): Google authentication is required as it uses Google drive. UnRanked accuracy & Keyword filters are available.
 
+![Tile](images/images_001.jpg)
 
 ## Data
 - Score Data from [ScoreSaber](https://scoresaber.com/) Public API - [doc](https://docs.scoresaber.com/)  
