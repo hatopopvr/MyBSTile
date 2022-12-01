@@ -2,6 +2,10 @@
 [ScoreSaber](https://scoresaber.com/)のデータを用いてBeatSaberのプレイ履歴データのタイル表示を行う[Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/MyBSTile/blob/main/MyBSTile_En.ipynb) です。  
 [MyBeatSaberAnalytics](https://github.com/hatopopvr/MyBeatSaberAnalytics)に実装した機能の抜粋であり、データ取得量を減らした超ライト版です。   
 データ保存等も廃しているため、現在データの蓄積を想定する場合はMyBeatSaberAnalyticsを使用してください。
+※データ保存を行うPro版も作りました。
+
+[MyBSTile](https://colab.research.google.com/github/hatopopvr/MyBSTile/blob/main/MyBSTile_En.ipynb):通常版、軽量。
+[MyBSTilePro](https://colab.research.google.com/github/hatopopvr/MyBSTile/blob/main/MyBSTilePro_En.ipynb):Google認証要。データ保存あり。キーワード検索。
 
 ![Tile](images/images_001.jpg)
 
