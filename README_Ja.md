@@ -5,7 +5,7 @@
 ※データ保存を行うPro版も作りました。
 
 - [MyBSTile](https://colab.research.google.com/github/hatopopvr/MyBSTile/blob/main/MyBSTile_En.ipynb):通常版。軽量。  
-- [MyBSTilePro](https://colab.research.google.com/github/hatopopvr/MyBSTile/blob/main/MyBSTilePro_En.ipynb):Pro版。Google認証要。データ保存あり。キーワード検索可。
+- [MyBSTilePro](https://colab.research.google.com/github/hatopopvr/MyBSTile/blob/main/MyBSTilePro_En.ipynb):Pro版。Google認証要。データ保存あり。単キーワードでの絞り込み可。
 
 ![Tile](images/images_001.jpg)
 
